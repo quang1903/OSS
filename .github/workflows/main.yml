@@ -24,6 +24,6 @@ jobs:
           port: 21
           server-dir: /htdocs/
           local-dir: ./
-          # exclude: |
-          #   **/config.php
+          exclude: |
+            **/config.php
           state-name: .ftp-deploy-sync-state.json
