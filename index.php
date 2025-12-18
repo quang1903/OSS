@@ -16,9 +16,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>hello</p>
-    <p>Tran Nhut Quang Dh52201315</p>
-    <h1>Trang sản phẩm</h1>
+    <h1>Tran Nhut Quang DH52201315</h1>
     <table border="1">
         <tr>
             <td>id</td>
