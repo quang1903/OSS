@@ -17,7 +17,7 @@
 </head>
 <body>
     <p>hello</p>
-    <p>toi la quang</p>
+    <p>Tran Nhut Quang</p>
     <h1>Trang sản phẩm</h1>
     <table border="1">
         <tr>
