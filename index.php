@@ -17,6 +17,7 @@
 </head>
 <body>
     <p>hello</p>
+    <p>toi la quang</p>
     <h1>Trang sản phẩm</h1>
     <table border="1">
         <tr>
@@ -35,9 +36,6 @@
                 <?php
             }
         ?>
-
-
-
     </table>
 </body>
 </html>
