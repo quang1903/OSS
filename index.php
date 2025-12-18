@@ -16,7 +16,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Tran Nhut Quang Chiều Thứ 5</h1>
+    <h1>Tran Nhut Quang - Chiều Thứ 5</h1>
     <table border="1">
         <tr>
             <td>id</td>
